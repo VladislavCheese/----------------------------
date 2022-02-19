@@ -15,7 +15,6 @@ h2 {
     left: -2.5em;
     top: 8em;
     }
-
 h3 { 
     font-size: 30px;
     color: Black;
@@ -23,7 +22,6 @@ h3 {
     left: -2.5em;
     top: 7em;
     }
-
 section.titleslide1 h4 {
     font-size: 40px;
     color: Black;
@@ -31,7 +29,6 @@ section.titleslide1 h4 {
     left: 0em;
     bottom: 6em;    
 }
-
 section.titleslide2 h4 {
     font-size: 40px;
     color: Black;
@@ -39,7 +36,6 @@ section.titleslide2 h4 {
     left: 0em;
     bottom: 5.3em;    
 }
-
 section.titleslide3 h4 {
     font-size: 40px;
     color: Black;
@@ -47,7 +43,6 @@ section.titleslide3 h4 {
     left: 0em;
     bottom: 4.1em;    
 }
-
 section.titleslide4 h4 {
     font-size: 40px;
     color: Black;
@@ -55,7 +50,6 @@ section.titleslide4 h4 {
     left: 0em;
     bottom: 0em;    
 }
-
 section.titleslide5 h4 {
     font-size: 40px;
     color: Black;
@@ -63,15 +57,14 @@ section.titleslide5 h4 {
     left: 0em;
     bottom: -1em;    
 }
-
 </style>
 
 # Лабораторная работа №2
-## Syrov Vladislav 
+#### Syrov Vladislav 
 
-## НКНбд-01-19
+#### НКНбд-01-19
 
-### RUDN University, 2022 Moscow, Russia
+#### RUDN University, 2022 Moscow, Russia
 
 ---
 <!--_class: titleslide1 -->
@@ -101,16 +94,16 @@ section.titleslide5 h4 {
 <!--_class: titleslide4 -->
 #### Уравнение
 
-# ![Вывод 1](https://github.com/VladislavCheese/----------------------------/blob/master/lab2/presentation/images/1.png "рис.02")
+# ![Вывод 1](file:///E:/Downloads/Documents/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/lab2/presentation/images/1.png "рис.02")
 
 
 ---
 <!--_class: titleslide5 -->
 #### Результат
 
-# ![Вывод 1](https://github.com/VladislavCheese/----------------------------/blob/master/lab2/presentation/images/var_1.png "рис.02")
+# ![Вывод 1](file:///E:/Downloads/Documents/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/lab2/presentation/images/var_1.png "рис.02")
 
-# ![Вывод 2](https://github.com/VladislavCheese/----------------------------/blob/master/lab2/presentation/images/var_2.png "рис.03")
+# ![Вывод 2](file:///E:/Downloads/Documents/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/lab2/presentation/images/var_2.png "рис.03")
 
 ---
 # Спасибо за внимание
