@@ -101,52 +101,16 @@ section.titleslide5 h4 {
 <!--_class: titleslide4 -->
 #### Уравнение
 
-Решение исходной задачи сводится к решению системы из двух дифференциальных уравнений: 
-$$
-\begin{equation*} 
-  \begin{cases} 
-    \frac{\partial r}{\partial t} = v 
-    \\
-    r \frac{\partial \theta}{\partial t} = \sqrt{21.09} v 
-  \end{cases}
-\end{equation*}
-$$
-
-с начальными условиями 
-
-$$
-\begin{equation*}
-  \begin{cases}
-    \theta_0 = 0 
-    \\ 
-    r_0 = x_1 
-  \end{cases}
-\end{equation*}
-$$
-и
-$$
-\begin{equation*}
-  \begin{cases}
-    \theta_0 = -\pi
-    \\
-    r_0 = x_2
-  \end{cases}
-\end{equation*}
-$$
-Исключая из полученной системы производную по t, можно перейти к следующему уравнению:
-$$
-\frac{\partial r}{\partial \theta} = \frac{r}{\sqrt{21.09}}.
-$$
-Начальные условия остаются прежними. Решив это уравнение, мы получим траекторию движения катера в полярных координатах.
+# ![Вывод 1](https://github.com/VladislavCheese/----------------------------/blob/master/lab2/presentation/images/1.png "рис.02")
 
 
 ---
 <!--_class: titleslide5 -->
 #### Результат
 
-# ![Вывод 1](https://github.com/VladislavCheese/----------------------------/blob/master/lab2/presentation/images/var_1.png "рис.01")
+# ![Вывод 1](https://github.com/VladislavCheese/----------------------------/blob/master/lab2/presentation/images/var_1.png "рис.02")
 
-# ![Вывод 2](https://github.com/VladislavCheese/----------------------------/blob/master/lab2/presentation/images/var_2.png "рис.02")
+# ![Вывод 2](https://github.com/VladislavCheese/----------------------------/blob/master/lab2/presentation/images/var_2.png "рис.03")
 
 ---
 # Спасибо за внимание
